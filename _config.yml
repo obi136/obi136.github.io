@@ -1,11 +1,11 @@
 # Site settings
 author: Obi Nkwonta
-title: 
+title: Git Basic Code
 header-img: img/home-bg.png
 email: obi136@gmail.com
 copyright_name: Obi Nkwonta
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Code and exploration about as simple as an 8-bit Game Boy Color
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  obi136
